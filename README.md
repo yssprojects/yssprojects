@@ -24,7 +24,7 @@
 ```python
 name = "Seshu Sai"
 who_i_am = ['Developer','Noobie']
-age = 22
+age = 16
 religion = "🇮🇳"
 ```
 
