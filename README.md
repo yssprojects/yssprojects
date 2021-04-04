@@ -18,7 +18,7 @@
 </br>
 
 
-![Profile Views](http://yss.my-style.in/?i=1)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yssprojects/&title=Profile%20Views)
 
 ### About 🙋🏻‍♂️
 ```python
@@ -43,4 +43,4 @@ religion = "🇮🇳"
 
 ### Stats ⚡️
 
-![Github Stats](https://readmestats.vercel.app/api?username=yssprojects&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+![Github Stats](http://yss.my-style.in/?i=1)
