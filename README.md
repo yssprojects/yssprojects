@@ -18,7 +18,7 @@
 </br>
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yssprojects/&title=Profile%20Views)
+![Profile Views](http://yss.my-style.in/?i=1)
 
 ### About 🙋🏻‍♂️
 ```python
